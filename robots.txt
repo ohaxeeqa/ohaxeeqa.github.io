@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohaxeeqa.github.io/IvS/sitemap_index.txt
+Sitemap: https://ohaxeeqa.github.io/gUI/sitemap_index.txt
+Sitemap: https://ohaxeeqa.github.io/lxS/sitemap_index.txt
+Sitemap: https://ohaxeeqa.github.io/rhK/sitemap_index.txt
